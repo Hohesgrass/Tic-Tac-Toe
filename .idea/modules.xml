@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Tic-Tac-Toe.Problems-Check_if_an_array_contains_two_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Tic-Tac-Toe.Problems-Check_if_an_array_contains_two_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Tic-Tac-Toe.Problems-Check_if_an_array_contains_two_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Tic-Tac-Toe.Problems-Check_if_an_array_contains_two_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Tic-Tac-Toe.Problems-Check_if_an_array_contains_two_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check if an array contains two numbers/Tic-Tac-Toe.Problems-Check_if_an_array_contains_two_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Create cube/Tic-Tac-Toe.Problems-Create_cube.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Create cube/Tic-Tac-Toe.Problems-Create_cube.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Create cube/Tic-Tac-Toe.Problems-Create_cube.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Create cube/Tic-Tac-Toe.Problems-Create_cube.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Create cube/Tic-Tac-Toe.Problems-Create_cube.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Create cube/Tic-Tac-Toe.Problems-Create_cube.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the corners/Tic-Tac-Toe.Problems-Find_the_corners.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the corners/Tic-Tac-Toe.Problems-Find_the_corners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the corners/Tic-Tac-Toe.Problems-Find_the_corners.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the corners/Tic-Tac-Toe.Problems-Find_the_corners.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find the corners/Tic-Tac-Toe.Problems-Find_the_corners.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find the corners/Tic-Tac-Toe.Problems-Find_the_corners.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe.Problems-Symmetric_matrix.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe.Problems-Symmetric_matrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe.Problems-Symmetric_matrix.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe.Problems-Symmetric_matrix.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe.Problems-Symmetric_matrix.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Tic-Tac-Toe.Problems-Symmetric_matrix.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The longest ascending sequence/Tic-Tac-Toe.Problems-The_longest_ascending_sequence.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The longest ascending sequence/Tic-Tac-Toe.Problems-The_longest_ascending_sequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The longest ascending sequence/Tic-Tac-Toe.Problems-The_longest_ascending_sequence.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The longest ascending sequence/Tic-Tac-Toe.Problems-The_longest_ascending_sequence.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The longest ascending sequence/Tic-Tac-Toe.Problems-The_longest_ascending_sequence.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The longest ascending sequence/Tic-Tac-Toe.Problems-The_longest_ascending_sequence.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Tic-Tac-Toe.Problems-The_sum_of_array_elements.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Tic-Tac-Toe.Problems-The_sum_of_array_elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Tic-Tac-Toe.Problems-The_sum_of_array_elements.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Tic-Tac-Toe.Problems-The_sum_of_array_elements.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Tic-Tac-Toe.Problems-The_sum_of_array_elements.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The sum of array elements/Tic-Tac-Toe.Problems-The_sum_of_array_elements.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The third row/Tic-Tac-Toe.Problems-The_third_row.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The third row/Tic-Tac-Toe.Problems-The_third_row.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The third row/Tic-Tac-Toe.Problems-The_third_row.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The third row/Tic-Tac-Toe.Problems-The_third_row.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The third row/Tic-Tac-Toe.Problems-The_third_row.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The third row/Tic-Tac-Toe.Problems-The_third_row.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe.Tic-Tac-Toe-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Tic-Tac-Toe.util.test.iml" />
+    </modules>
+  </component>
+</project>

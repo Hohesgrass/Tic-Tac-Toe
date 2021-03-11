@@ -1,0 +1,19 @@
+# Project exclude paths
+/.gradle/
+/Problems/Check if an array contains two numbers/out/
+/Problems/Check if an array contains two numbers/out/production/classes/
+/Problems/Create cube/out/
+/Problems/Create cube/out/production/classes/
+/Problems/Find the corners/out/
+/Problems/Find the corners/out/production/classes/
+/Problems/Symmetric matrix/out/
+/Problems/Symmetric matrix/out/production/classes/
+/Problems/The longest ascending sequence/out/
+/Problems/The longest ascending sequence/out/production/classes/
+/Problems/The sum of array elements/out/
+/Problems/The sum of array elements/out/production/classes/
+/Problems/The third row/out/
+/Problems/The third row/out/production/classes/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
